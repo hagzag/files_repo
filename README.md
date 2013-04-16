@@ -1,7 +1,7 @@
 ![picture alt](http://www.tikalk.com/files/upload/1/tikal_com_logo45n45.png "Tikal Community") Using Git for Backup ... [ yes you heard right !]
 ======================
 
-This repo was populated with a Git based Backup procedure - see: https://gist.github.com/hagzag/5396510#file-gistfile1-sh
+This repo was populated with a Git based Backup procedure - see: https://gist.github.com/hagzag/5396510
 
 This is shared here for educational purposes.
 I created this script as a backup procedure to an assets directory I had on one of my websites, 
